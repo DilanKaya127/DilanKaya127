@@ -3,7 +3,7 @@
 ###
 
 <p align="left">This is Dilan Kaya. I'm a software engineer who develops at backend.</p>
-<p align="left">🎯 I aim to develop web and mobile applications more day by day.</p>
+<p align="left">🎯 web and mobile applications</p>
 
 ###
 
@@ -56,9 +56,3 @@
 </div>
 
 ###
-
-<div align="right">
-  <a href="https://open.spotify.com/user/t3tpfyepbucgys39hj7o7i233">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=t3tpfyepbucgys39hj7o7i233&count=1" alt="Spotify recently played"  />
-  </a>
-</div>
